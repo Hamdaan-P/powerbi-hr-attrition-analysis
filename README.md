@@ -52,4 +52,9 @@ Open the file Attrition_Analysis_Dashboard.pbix in Power BI Desktop.
 
 The visual dashboard will load, allowing for full interactivity using the slicers and visuals.
 
+
 Thank you for reviewing my work!
+
+
+## License
+This project is licensed under the [MIT License](LICENSE).
